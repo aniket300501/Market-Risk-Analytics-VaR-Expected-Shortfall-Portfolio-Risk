@@ -1,10 +1,19 @@
-# Market-Risk-Analytics-VaR-Expected-Shortfall-Portfolio-Risk
-
-##  Project Overview
+# Market Risk Analytics VaR-Expected Shortfall Portfolio Risk
 
 This project is designed to mirror the **day‑to‑day analytical responsibilities of a Market Risk function within a global investment bank**, with direct alignment to roles in a **Risk Division** responsible for independent oversight, risk appetite monitoring, and regulatory compliance.
 
 The analysis focuses on **market risk measurement, interpretation, and communication** using a suite of industry‑standard risk metrics including **Value at Risk (VaR), Expected Shortfall (ES), volatility‑adjusted models, and portfolio‑level risk analysis**. The project explicitly evaluates **risk behaviour during stressed market conditions (COVID‑19)** and connects quantitative outputs to **risk management actions and escalation decisions**.
+
+## Key Results & Insights
+
+* Volatility-adjusted and heavy-tailed models consistently produced higher and more realistic tail-risk estimates than basic parametric VaR, highlighting material model risk from normality and constant-volatility assumptions.
+
+* During the COVID-19 stress period, Expected Shortfall increased disproportionately relative to VaR, demonstrating that VaR alone understates extreme downside risk.
+
+* Portfolio diversification reduced VaR marginally; however, Expected Shortfall remained elevated due to high cross-asset correlation, indicating persistent systemic tail risk.
+
+* Results reinforce the importance of Expected Shortfall, stress awareness, and volatility regime analysis for risk appetite monitoring and escalation to senior management.
+
 
 ---
 
@@ -67,7 +76,7 @@ These measures are consistent with **internal risk management frameworks and reg
   * Volatility adjustment (time‑varying)
 * Highlights **model risk from static assumptions**
 
-#### 4. Hull–White‑Style Volatility Approach
+#### 4. Hull–White Style Volatility Approach
 
 * Incorporates stochastic volatility dynamics
 * Better tail behaviour under stressed conditions
