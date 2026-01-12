@@ -15,6 +15,12 @@ The analysis focuses on **market risk measurement, interpretation, and communica
 * Results reinforce the importance of Expected Shortfall, stress awareness, and volatility regime analysis for risk appetite monitoring and escalation to senior management.
 
 
+## Key Portfolio Findings
+
+* VaR marginally reduces due to diversification
+* ES remains elevated due to **correlated tail risk**
+* Diversification benefits diminish in systemic stress events
+  
 ---
 
 ## Objectives
@@ -100,11 +106,6 @@ These measures are consistent with **internal risk management frameworks and reg
 * Equal‑weighted portfolio (MET & PRU)
 * Observed correlation ≈ **0.93**, indicating significant co‑movement
 
-### Key Portfolio Findings
-
-* VaR marginally reduces due to diversification
-* ES remains elevated due to **correlated tail risk**
-* Diversification benefits diminish in systemic stress events
 
 **Risk Interpretation:**
 
@@ -132,26 +133,6 @@ This analysis reflects a **control mindset**, emphasising model validation, limi
   * Stress testing
   * Scenario analysis
   * Cross‑asset diversification
-
----
-
-##  Skills & Competencies Demonstrated
-
-* Market risk measurement (VaR, ES)
-* Portfolio and transaction‑level risk analysis
-* Volatility and tail risk modelling
-* Interpretation of risk metrics for non‑technical stakeholders
-* Independent challenge of risk‑taking behaviour
-* Quantitative analysis with governance awareness
-
----
-
-##  Extensions Aligned to Desk‑Level Risk
-
-* Stress testing linked to macro events (rates, inflation, elections)
-* Greeks‑based sensitivity analysis
-* Risk dashboards for limit monitoring
-* Scenario‑driven portfolio rebalancing
 
 ---
 
